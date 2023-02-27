@@ -21,4 +21,6 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes made to the Gutenberg files are basic font and sizing changes. File for all changes are in Part1/themes/gutenberg-styles.css
+
 
